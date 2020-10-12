@@ -13,7 +13,7 @@
     <compileSource>1.6</compileSource>
     <hadoop.version>0.20.2-cdh3u3</hadoop.version>
     <hbase.version>0.90.4-cdh3u3</hbase.version>
-    <junit.version>4.8.1</junit.version>
+    <junit.version>4.13.1</junit.version>
     <commons-logging.version>1.1.1</commons-logging.version>
     <hive.version>0.7.1-cdh3u3</hive.version>
     <pig.version>0.8.1-cdh3u3</pig.version>
